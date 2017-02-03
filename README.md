@@ -19,7 +19,7 @@ You are working with a non-profit organization. They are trying to raise awarene
 
 #Recommendations
 1. I would choose to test the first five stops from the following list:
-![alt tag](https://github.com/albertnjose/mta_project/raw/master/mta_project/top15.png)
+![alt tag](https://github.com/albertnjose/mta_project/raw/master/images/top15.png)
 
 2. Knowing that there are a lot of tourists at Times Square and Grand Central,
    we may want to avoid those areas after the initial test and focus on other areas
@@ -27,11 +27,10 @@ You are working with a non-profit organization. They are trying to raise awarene
 
 3. To avoid a lot of angry commuters on Mondays, I would recommend to canvass on
    Tuesday, Wednesday, Thursday, and Friday. You can see from the graph below those days have peak traffic for those specific stations.
-![alt tag](https://github.com/albertnjose/mta_project/blob/master/mta_project/top15_timeseries.png)
+![alt tag](https://github.com/albertnjose/mta_project/raw/master/images/top15_timeseries.png)
+4.
 
 #Further research
 1. Find which areas have a higher concentration of tech startups.
-2. Include analysis of higher income areas where individuals are more likely to
-   make contributions to the cause.
-3. Add analysis on male/female population in specific areas and target those areas
-   where females are high in proportion (if indeed they are more receptive to your cause).
+2. Include analysis of higher income areas where individuals are more likely to make contributions to the cause.
+3. It would be good to investigate other subway stops in the Brooklyn or Queens boroughs.
