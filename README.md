@@ -28,7 +28,9 @@ You are working with a non-profit organization. They are trying to raise awarene
 3. To avoid a lot of angry commuters on Mondays, I would recommend to canvass on
    Tuesday, Wednesday, Thursday, and Friday. You can see from the graph below those days have peak traffic for those specific stations.
 ![alt tag](https://github.com/albertnjose/mta_project/raw/master/images/top15_timeseries.png)
-4.
+
+4. Last, I would then turn our focus to the stops with the highest female to male ratios.
+![alt tag](https://github.com/albertnjose/mta_project/raw/master/images/top_15_femaleratio.png)
 
 #Further research
 1. Find which areas have a higher concentration of tech startups.
