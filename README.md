@@ -15,7 +15,7 @@ You are working with a non-profit organization. They are trying to raise awarene
 4. I will take the second and third weeks of December 2016 to remove any issues with
    Christmas and New Year's.
 5. I will add data regarding the female to male ratios by zipcode of the subway stops
-   from ![alt tag](City-Data.com).
+   from http://city-data.com.
 6. Last, I will make a recommendation based on my findings and offer any suggestions
    for further research.
 
