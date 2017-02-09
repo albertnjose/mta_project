@@ -8,8 +8,11 @@ You are working with a non-profit organization. They are trying to raise awarene
    down the focus to Manhattan, where there is a mixture of students and working
    professionals.
 2. Any outliers will be removed. Total count of exits and entries will be taken.
+   No station line exceeded 5000 in total traffic during a time period. Also,
+   negative entries/exits are not possible.
 3. I will assume that the best time to canvass are the hours from 11AM to 3PM to
-   avoid issues with rush hour. Thus, I will remove all other hours.
+   avoid issues with rush hour. Individuals may not be responsive on their morning
+   commute to work or evening commute home. Thus, I will remove all other hours.
    I did not remove duplicate station names because they had unique subway lines
    that ultimately became the final groupby.
 4. I will take the second and third weeks of December 2016 to remove any issues with
@@ -22,6 +25,9 @@ You are working with a non-profit organization. They are trying to raise awarene
 #Recommendations
 1. I would choose to test the first five stops from the following list:
 ![alt tag](https://github.com/albertnjose/mta_project/raw/master/images/top15.png)
+   Herald Square seemed to be significantly more traffic during the off peak hours.
+   However, I checked the data for duplicates. Additionally, I ran the same analysis
+   for different weeks and the results were consistent.
 
 
 
